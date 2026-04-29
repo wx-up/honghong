@@ -200,6 +200,9 @@ importers:
       tailwindcss:
         specifier: ^4
         version: 4.2.3
+      tsup:
+        specifier: ^8.3.5
+        version: 8.5.1(jiti@2.6.1)(postcss@8.5.10)(tsx@4.21.0)(typescript@5.9.3)(yaml@1.10.3)
       tw-animate-css:
         specifier: ^1.4.0
         version: 1.4.0
@@ -225,9 +228,6 @@ importers:
       shadcn:
         specifier: latest
         version: 4.3.1(@cfworker/json-schema@4.1.1)(@types/node@20.19.39)(typescript@5.9.3)
-      tsup:
-        specifier: ^8.3.5
-        version: 8.5.1(jiti@2.6.1)(postcss@8.5.10)(tsx@4.21.0)(typescript@5.9.3)(yaml@1.10.3)
       tsx:
         specifier: ^4.19.2
         version: 4.21.0
